@@ -1,0 +1,20 @@
+{
+  "ok": true,
+  "generationId": "hdu_20260524_143022_a3f2",
+  "style": "赛博朋克风",
+  "caption": "bug退散，杭电保佑。",
+  "imagePlaceholder": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI4MDAiIGhlaWdodD0iNjAwIj48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSIjMjIyIj48L3JlY3Q+PHRleHQgeD0iNTAlIiB5PSI1MCUiIGZvbnQtc2l6ZT0iMjQiIGZpbGw9IiNmZmYiIHRleHQtYW5jaG9yPSJtaWRkbGUiPkhEVTwvdGV4dD48L3N2Zz4=",
+  "imageUrl": "https://cdn.mzsjai.com/hdu/20260524/143022_final.png",
+  "watermark": "© HDU Creative Lab",
+  "progress": {
+    "collected": ["复古胶片风", "赛博朋克风"],
+    "total": 4,
+    "percent": 50,
+    "bar": "██████████░░░░░░░░░░ 50%"
+  },
+  "badge": "🏅 首次生成",
+  "shareLink": "https://skill.mzsjai.com/s/hdu_a3f2",
+  "inspireLink": "https://skill.mzsjai.com/inspire?style=cyberpunk",
+  "estimatedTime": 3,
+  "nextActions": ["/gallery", "/inspire", "/timecapsule"]
+}
